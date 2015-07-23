@@ -1,0 +1,195 @@
+[  Logistics ]
+>> Prior:
+- Choose the brand 
+- set up a website (get designers)
+- email Shaan
+- Get the team
+- 1/2 or 1/3 attendees loss
+
+>> Right before
+- Triple chat with vendors.
+- Sponsors (they dont know anything). Give them your number.
+- Have a meeting with volunteers.
+- Snacks (healthy/unhealthy ones).
+
+>> Run show
+- Tech check
+
+>> Opening ceremonies
+ - Welcome
+ - API demos
+
+>> During hacking
+- Keep twitting
+- Project submissions (walk around & let everyone know when the deadline is)
+
+>> The end
+- Thank everyone :)
+
+>> After
+- Success stories
+
+[ People ]
+How to keep students:
+- if local, most wont stay
+
+
+[ Budgeting ]
+- Revenue
+- Cost (Cost per attendee)
+1. Food
+	Rule of 7: $7/person
+	Snacks and drinks $10/person
+2. Shirts/Swag
+	$4-10/shirt
+3. Prizes
+	Keep them hacking
+	couple thousand 
+4. Venue costs (try free)
+5. Transportation 
+	$3300/bus
+6. Mischelleneous 
+	(martketing, supplies, printing, stickers, tips, emergency food)
+	----------------- chords etc
+>> Pro-tips
+- Budget high
+- PAYMENT cycles
+- Emergency fund (reallocate, not use budget usually 10%)
+
+[ Sponsorship ]
+1. Product feedback
+	- Distribution
+	- Branding exposure
+
+2. Marketing
+	- Expreriences
+	- Branding Position
+	- Memoraability
+
+3. Recruitement
+	- Resumes
+	- Thought Leadership
+	- Interactions
+1.  Cost/people
+ COST     CPA
+$50,000   50.00
+
+cost/people < cost/clients
+
+2. Attendee value
+3. Sponsor landsape
+4. Package Value
+5. Force
+
+How do the companies do sponsorship?
+	****** Typically quarterly budgets (best Q1 and Q4) ******
+Recruiting budgets (highly seasonal) / BIG PUSH /
+
+
+>> Types of sponsors
+Cash for value
+Anchor brands (twilio, microsoft)
+Strategic partners :(techcrunch, Ycombinator)
+In kind (challengepost, oculus VR)
+
+>> How do you get them?
+When you are doing well. When you have something
+- A vision
+- A website
+- Preregistration
+- A venue
+- Other Sponsors
+
+*** LET THEM KNOW WHERE MONEY GOES
+
+Accounting (do it right)
+Sponsorship docs 
+1. Standard Tiers Document
+2. PowerPoint decks 5-10 slides (best for cold emailing)
+3. Custom proposals (that seves their needs)
+
+Always to include in the docs
+- where/when/how many/who to contact
+
+>> Sponsorhip tiers
+- how many (anchor pricing)
+	 probs 3
+- how much should each be
+- what perks to each tier (whatever you is valuable)
+
+>> 3 tiers: 
+first just promoting their APIS
+recruiting
+recruiting + blast branding
+
+Process?
+1. Set targets & do research (who makes  decision, who have alums) | LinkedIn, data.com ceoemail.com
+2. Get in Touch (get introduced by someone) (LinkedIn, facebook, google)
+3. Exploratory Phone Call (dont waste it, sell your team & story, let them talk)
+4. Make a proposal ( set a deadline, ask for a follow up, less is more)
+					  | *** for example, printing their name on the shirt ***
+5. Follow up (RelateiQ, boomerang, followup.cc)
+
+NOT's:
+- not iterating
+- not praciticing
+- no highlighting (keep notes)
+
+PRO-TIPS:
+Under promise, over deliver
+Follow up (post event sponsors, thank you note, photos)
+Timely communication
+Be willing to negotiate
+Having a contract
+
+Pitfalls:
+if they haven't said yet, that's a NO. (Decision: ask which package they want to choose).
+Value what you are selling.
+
+
+[ Team ]
+Ways of choosing:
+1. Election
+2. Selection
+3. Pre-selection election
+
+Suggestions:
+- Freshmen
+- Pat organizers
+
+>> Working as a team:
+	Communication!
+	Use Slack (not facebook)
+	Full visibility
+	Assign it (name it)
+	Timeframe it
+
+>> Team structure:
+1. Logistics & operations
+2. Ginance sponsorship
+3. Media & outreach
+
+>> Pro tips
+1. Volunteer
+2. Be mature
+3. Set an example
+4. Make sure everyone is valued
+
+[ Questions ]
+- How to choose a date?
+- Do we need to pay for judges?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

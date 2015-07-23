@@ -1,0 +1,40 @@
+[ Vendors ]
+
+Equipment:
+- food
+- AU equipment
+- internet/wifi
+	Logistics
+		Bandwidth 
+		2.5 devices per person
+		configuration of access  points
+- Electrical
+- Furniture
+	Pricing: 
+		Chairs $1-2
+		power strips $5-6 (rent $2-4) amazon!
+		Party rental vendors 
+- Swag (should be last)
+	Local print shop
+	Pricing:
+		shirt $4-10 (depends on the number)
+	Sponsorship 
+
+Put down deposits
+So dont pass deadlines
+
+[ Volunteers ]
+- Recruiting
+- Freshman
+- Be upfront about timing
+- Keep them engaged
+	- Have an all hands
+	- meet in person
+	- update
+	- have them in your slack
+	- ask if they cna do small prep jobs
+- Assign roles
+	- registration
+	- setting up AV
+	...
+- Make a timeline
